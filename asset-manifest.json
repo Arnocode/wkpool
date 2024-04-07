@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.83cdd495.css",
-    "main.js": "/static/js/main.b78b5792.js",
+    "main.js": "/static/js/main.e491ee24.js",
     "static/media/ekpoolpro.png": "/static/media/ekpoolpro.7531db2bfac9fffed4a0.png",
     "static/media/logo2.png": "/static/media/logo2.60e58fe106b1ccfb8aac.png",
     "static/media/logo.svg": "/static/media/logo.378485bfaef1d66369b2d6be57c8a5c2.svg",
     "index.html": "/index.html",
     "main.83cdd495.css.map": "/static/css/main.83cdd495.css.map",
-    "main.b78b5792.js.map": "/static/js/main.b78b5792.js.map"
+    "main.e491ee24.js.map": "/static/js/main.e491ee24.js.map"
   },
   "entrypoints": [
     "static/css/main.83cdd495.css",
-    "static/js/main.b78b5792.js"
+    "static/js/main.e491ee24.js"
   ]
 }
